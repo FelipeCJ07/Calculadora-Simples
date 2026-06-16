@@ -12,8 +12,7 @@ Uma calculadora web simples e responsiva, feita com **HTML**, **CSS** e **JavaSc
 
 ## 🎨 Preview
 
-![Calculadora Preview](https://via.placeholder.com/600x400?text=Calculadora+Preview)
-*(Adicione um print da calculadora aqui)*
+![Calculadora Simples](docs/screenshot.png)
 
 ## 📁 Estrutura de Arquivos
 
